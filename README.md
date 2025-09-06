@@ -39,6 +39,15 @@ QuickAid addresses these problems by combining **AI, emergency connectivity, and
 
 ---
 
+## 📊 Presentation  
+
+We have also prepared a detailed presentation for QuickAid, which you can view and download here:  
+
+[📥 Download QuickAid Presentation](https://drive.google.com/file/d/1kfaMZ1Gp5kwIHEyXgZvSCwjbhP_014M8/view?usp=sharing)  
+
+
+---
+
 ## 🛠️ Technology Stack  
 
 **Frontend**  
