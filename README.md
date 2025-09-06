@@ -48,6 +48,15 @@ We have also prepared a detailed presentation for QuickAid, which you can view a
 
 ---
 
+# 🚑 QuickAid – Emergency Healthcare App  
+
+![QuickAid Banner](./assets/quickaid-banner.png)
+
+QuickAid is a life-saving mobile application built during the **Code Veda Hackathon 2025 (powered by Hack2Skill)**.  
+It provides **instant access to emergency services**, 🤖 **AI-powered first-aid guidance**, and 📍 **real-time location sharing** — ensuring no second is wasted when every moment counts.
+
+---
+
 ## 🛠️ Technology Stack  
 
 **Frontend**  
