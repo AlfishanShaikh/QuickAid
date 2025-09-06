@@ -43,14 +43,14 @@ QuickAid addresses these problems by combining **AI, emergency connectivity, and
 
 We have also prepared a detailed presentation for QuickAid, which you can view and download here:  
 
-[📥 Download QuickAid Presentation](https://drive.google.com/file/d/1kfaMZ1Gp5kwIHEyXgZvSCwjbhP_014M8/view?usp=sharing)  
+[📥 Download QuickAid Presentation](https://drive.google.com/file/d/1kfaMZ1Gp5kwIHEyXgZvSCwjbhP_014M8/view?usp=sharin)  
 
 
 ---
 
 # 🚑 QuickAid – Emergency Healthcare App  
 
-![QuickAid Banner](./assets/quickaid-banner.png)
+![QuickAid Banner](https://github.com/AlfishanShaikh/QuickAid/blob/a4335b3762a9ed0bfada7ab3db73c9c89968492d/banner.jpg)
 
 QuickAid is a life-saving mobile application built during the **Code Veda Hackathon 2025 (powered by Hack2Skill)**.  
 It provides **instant access to emergency services**, 🤖 **AI-powered first-aid guidance**, and 📍 **real-time location sharing** — ensuring no second is wasted when every moment counts.
@@ -172,3 +172,16 @@ QuickAid is not just an app — it is a **shift in emergency preparedness**:
 ⚡ Fast. 🔒 Reliable. ❤️ Life-saving.  
 
 A solution born at the **Code Veda Hackathon 2025** to **save lives, empower individuals, and build a safer tomorrow**.  
+
+---
+
+## ⚠️ Note  
+
+This is currently an **idea and prototype** developed for the Code Veda Hackathon 2025.  
+We are actively working on features and improvements to make QuickAid production-ready.  
+
+---
+
+## © Copyright  
+
+© 2025 Shaikh Alfishan. All rights reserved.  
